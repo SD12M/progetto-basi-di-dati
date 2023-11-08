@@ -145,7 +145,6 @@ int main (int argc, char **argv){
         <<"10. Per ogni biblioteca visualizzare quelle che contengono più di 20 libri.\n";
         int scelta=-1;
         cin>>scelta;
-        char completeQuery[2000];
         switch (scelta)
         {
         case 0:
